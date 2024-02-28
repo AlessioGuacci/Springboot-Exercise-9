@@ -26,5 +26,4 @@ public class Cars {
 
     @Column
     private int currentPrice;
-
 }
